@@ -1,0 +1,19 @@
+body {
+  background-color: orange;
+}
+#quote_row{
+  background-color: orange;
+  padding: 20em 0em 0em 0em;
+}
+#generate {
+  font-size: 1.5em;
+  font-family: anton;
+}
+#quote_par {
+  font-size: 1.8em;
+  color: blacl;
+  font-family: anton;
+}
+blockquote {
+  quotes: "\201C""\201D""\2018""\2019";
+}
